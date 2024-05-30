@@ -6,6 +6,8 @@ Animations allow you to switch between images to create an animated effect. You 
 ## B. What is Sprite?
 A sprite is a two-dimensional image or animation that is integrated into a larger scene in video games and graphics. It's commonly used to represent characters, objects, and other elements in the game.
 
+Image from Penzilla: https://penzilla.itch.io/
+
 ![Player Image](Resources/images/Player.png)
 
 ## C. What is an animation script file?
