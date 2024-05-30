@@ -3,7 +3,11 @@ SplashKit Animation
 //Frames are declared with an f: and contain
 //the following comma separated values
 //ID,CELL,DUR,NEXT
+//f: 0, 0, 10, 1
+//f: 1, 1, 10, 0
 
+
+// Set notation approach
 //Idle
 f:[0-1],[0-1], 20, 0
 f:[7-6],[7-6], 20, 7
