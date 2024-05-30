@@ -1,0 +1,14 @@
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\bin\Debug\net8.0\gameWithSprite.exe
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\bin\Debug\net8.0\gameWithSprite.deps.json
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\bin\Debug\net8.0\gameWithSprite.runtimeconfig.json
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\bin\Debug\net8.0\gameWithSprite.dll
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\bin\Debug\net8.0\gameWithSprite.pdb
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.AssemblyInfoInputs.cache
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.AssemblyInfo.cs
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.csproj.CoreCompileInputs.cache
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.dll
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\refint\gameWithSprite.dll
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.pdb
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\gameWithSprite.genruntimeconfig.cache
+C:\Users\ngtua\OneDrive\Documents\Deakin\Deakin_study\2024_T1\SIT771_OOP\gameWithSprite\obj\Debug\net8.0\ref\gameWithSprite.dll
