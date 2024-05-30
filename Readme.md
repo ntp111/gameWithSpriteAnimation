@@ -8,7 +8,7 @@ A sprite is a two-dimensional image or animation that is integrated into a large
 
 ![Player Image](Resources/images/Player.png)
 
-## D. What is an animation script file?
+## C. What is an animation script file?
 A configuration file for defining animations.
     ```txt
     SplashKit Animation
@@ -40,7 +40,7 @@ A configuration file for defining animations.
 
     ```
 
-## E. Tutorial
+## D. Tutorial
 
 ### 1. Set up simple game mechanism
 
@@ -276,5 +276,5 @@ A configuration file for defining animations.
     }
 ```
 
-### Game Result:
+## E. Game Result:
 ![Player Image](Resources/images/gameplay.gif)
